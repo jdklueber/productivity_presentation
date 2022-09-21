@@ -15,23 +15,17 @@
   * Antipattern:  Trying to Remember Everything
     * Pattern:  The Inbox
     * Information Triage
-      * Effective Calendaring
-      * Managing Periodic Tasks
-      * Managing One Off Tasks
-      * The Five Minute Rule - Part I
-      * Pattern:  Record the Research
-      * Pattern:  Next Step
+    * The Engineering Notebook
+    * Regular Review
   * Antipattern:  Be The Batman
     * Pattern:  Rely on Pack
-      * Delegation
     * Pattern:  Reasonable Heroics
-      * Exceptional pushes require exceptional breaks
+    * Pattern:  Definition of Done
   * Getting Unstuck
     * Pattern:  Just Five Minutes
-    * Pattern:  Martian Persistence
     * Pattern:  Breadcrumbs
     * Pattern:  Reacquaint
-    * Pattern:  Definition of Done
+    * Pattern:  Martian Persistence
 * Accountability
   * Visibility and the Commitment Board
   * Accountability Teams
